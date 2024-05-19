@@ -1,6 +1,6 @@
 # Data Science Projects
 
-Welcome to my collection of data science projects! This repository contains various projects that I have worked on, ranging from machine learning applications to data analysis tasks. Each project folder contains the code and the data used to run them.
+Welcome to my collection of data science projects! This repository contains various projects that I have worked on, ranging from machine learning applications to data analysis tasks. Each project folder contains the code and the data used to run them are all from the Kaggle website with the link in.
 
 ## Projects Overview
 
